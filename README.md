@@ -96,6 +96,6 @@ Voraa-Deal-Breaker-Engine/
 
 ## Related Materials
 
-- Analytical report: \`assets/pdfs/Voraa_Final_Analytical_Report.pdf\`
-- Core notebook: \`notebooks/gentag_deal_breaker_selection.ipynb\`
+- [Analytical report](assets/pdfs/Voraa_analytical_report.pdf)
+- [Core notebook](notebooks/gentag_deal_breaker_selection.ipynb)
 
