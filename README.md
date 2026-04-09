@@ -68,11 +68,11 @@ I defined the feature architecture for a lightweight full-stack implementation o
 Voraa-Deal-Breaker-Engine/
 ├── README.md
 ├── assets/              # diagrams, UI mockups, project PDF
-├── data/                # raw project inputs
+├── data/                # project inputs
 ├── docs/                # project context, methodology, system design, roadmap
 ├── notebooks/           # notebook for reviewed deal-breaker tag selection
 ├── prototypes/          # wireframes and feature design artifacts
-├── results/             # figures and sample outputs
+├── results/             # sample outputs
 └── src/                 # in-progress frontend and backend implementation
 ```
 
