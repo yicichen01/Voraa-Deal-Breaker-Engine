@@ -24,7 +24,11 @@ Restaurant discovery is often time-sensitive and constraint-driven. Users are no
 - Is there outdoor seating?
 - Is this a place I would immediately rule out?
 
-Earlier project research showed that users respond best when GenTags are concrete, curated, and shown at the right decision moment. Tags are most useful when they help users **filter and confirm**, not when they feel vague, excessive, or promotional. The report therefore recommends redesigning GenTags as a more practical decision toolkit for discovery.  
+Earlier project research showed that users respond best when GenTags are concrete, curated, and shown at the right decision moment. Tags are most useful when they help users **filter and confirm**, not when they feel vague, excessive, or promotional. The report therefore recommends redesigning GenTags as a more practical decision toolkit for discovery.
+
+**Completed research artifact: current journey map used to synthesize discovery friction, drop-off points, and product opportunities.**
+
+![User Journey Map](results/sample_outputs/user_journey_map.png)
 
 ## Solution
 
@@ -40,6 +44,10 @@ The feature is designed around three layers:
 
 3. **Full-stack MVP**  
    An in-progress frontend and backend flow allows users to select deal-breaker constraints and retrieve only matching restaurants or coupons.
+
+**Completed workflow diagram: reviewed tag pipeline from raw GenTags to final deal-breaker concepts.**
+
+![Tag Pipeline](assets/images/tag_pipeline.png)
 
 ## What I Built
 
@@ -61,6 +69,16 @@ I defined the feature architecture for a lightweight full-stack implementation o
 - backend filtering logic using required and excluded tags
 - request / response design for constraint-aware retrieval
 - transparent result matching through tag-based logic
+
+**Completed system diagram: feature architecture connecting reviewed tags, backend filtering, and user-facing selection flow.**
+
+![Deal-Breaker Architecture](assets/images/deal_breaker_architecture.png)
+
+## Feature Mockup (WIP)
+
+The visual below is a **mockup**, not a completed production frontend. It illustrates the intended interaction pattern for Deal-Breaker Mode and shows how non-negotiable constraints may be exposed in the UI.
+
+![Frontend Mockup](assets/images/frontend_mockup.png)
 
 ## Repository Structure
 
