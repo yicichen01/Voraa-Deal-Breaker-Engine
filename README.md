@@ -26,7 +26,7 @@ Restaurant discovery is often time-sensitive and constraint-driven. Users are no
 
 Earlier project research showed that users respond best when GenTags are concrete, curated, and shown at the right decision moment. Tags are most useful when they help users **filter and confirm**, not when they feel vague, excessive, or promotional. The report therefore recommends redesigning GenTags as a more practical decision toolkit for discovery.
 
-**Completed research artifact: current journey map used to synthesize discovery friction, drop-off points, and product opportunities.**
+**Current journey map used to synthesize discovery friction, drop-off points, and product opportunities.**
 
 ![User Journey Map](results/sample_outputs/user_journey_map.png)
 
@@ -45,7 +45,7 @@ The feature is designed around three layers:
 3. **Full-stack MVP**  
    An in-progress frontend and backend flow allows users to select deal-breaker constraints and retrieve only matching restaurants or coupons.
 
-**Completed workflow diagram: reviewed tag pipeline from raw GenTags to final deal-breaker concepts.**
+**Reviewed tag pipeline from raw GenTags to final deal-breaker concepts.**
 
 ![Tag Pipeline](assets/images/tag_pipeline.png)
 
@@ -70,7 +70,7 @@ I defined the feature architecture for a lightweight full-stack implementation o
 - request / response design for constraint-aware retrieval
 - transparent result matching through tag-based logic
 
-**Completed system diagram: feature architecture connecting reviewed tags, backend filtering, and user-facing selection flow.**
+**Feature architecture connecting reviewed tags, backend filtering, and user-facing selection flow.**
 
 ![Deal-Breaker Architecture](assets/images/deal_breaker_architecture.png)
 
